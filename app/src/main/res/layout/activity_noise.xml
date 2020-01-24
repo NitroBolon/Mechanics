@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tlo"
+    style="@style/tlo">
+
+    <TextView
+        android:id="@+id/status"
+        style="@style/measure_value"/>
+
+    <TextView
+        android:text="@string/voice_label"
+        style="@style/measure_label"/>
+    <TextView
+        android:id="@+id/best"
+        style="@style/measure_max"/>
+
+    <TextView
+        android:text="@string/best_label"
+        style="@style/measure_label"/>
+</LinearLayout>

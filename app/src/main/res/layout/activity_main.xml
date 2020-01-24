@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/scroll_main">
+
+    <TableLayout
+        style="@style/table_main"
+        android:stretchColumns="1">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            style="@style/main_layout"
+            tools:context=".MainActivity">
+
+            <ImageView style="@style/image" />
+
+            <LinearLayout style="@style/button_container">
+
+                <Button style="@style/button_small_left"
+                    android:drawableTop="@drawable/acceleration"
+                    android:text="@string/acc"
+                    android:id="@+id/acceleration"/>
+
+                <Button style="@style/button_small_right"
+                    android:drawableTop="@drawable/noise"
+                    android:text="@string/noise"
+                    android:id="@+id/noise"/>
+
+            </LinearLayout>
+
+            <LinearLayout style="@style/button_container">
+
+                <Button style="@style/button_small_left"
+                    android:drawableTop="@drawable/vin"
+                    android:text="@string/vin"
+                    android:id="@+id/vin"/>
+
+                <Button style="@style/button_small_right"
+                    android:drawableTop="@drawable/codes"
+                    android:text="@string/error"
+                    android:id="@+id/codes"/>
+
+            </LinearLayout>
+
+            <LinearLayout style="@style/button_container">
+
+                <Button style="@style/button_wide"
+                    android:drawableTop="@drawable/youtube"
+                    android:text="@string/youtube"
+                    android:id="@+id/youtube"/>
+
+            </LinearLayout>
+
+            <TextView style="@style/footer" />
+
+        </LinearLayout>
+
+    </TableLayout>
+
+</ScrollView>

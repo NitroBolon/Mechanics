@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mechanics</string>
+    <string name="footer">© NitrobolonApps 2020</string>
+    <string name="acc">Acceleration</string>
+    <string name="noise">Noise</string>
+    <string name="vin">VIN</string>
+    <string name="error">Error codes</string>
+    <string name="youtube">Find us on YouTube</string>
+    <string name="app_name_acc">Mechanics - Acceleration</string>
+    <string name="missing_sensor">Sensor not found</string>
+    <string name="sensor_label">Acceleration (m/s2)</string>
+    <string name="best_label">Best result</string>
+    <string name="ytNotFound">You don`t have YouTube app installed</string>
+    <string name="app_name_noise">Mechanics - Noise</string>
+    <string name="voice_label">Sound level (dB)</string>
+    <string name="noise_fail">Noise measure failed</string>
+    <string name="app_name_obd">Mechanics - Audi OBD-II </string>
+    <string name="title_activity_api">Mechanics - VIN Decoder</string>
+</resources>

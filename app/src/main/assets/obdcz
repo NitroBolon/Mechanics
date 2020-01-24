@@ -1,0 +1,15 @@
+P1101 O2 Sensor Circ.,Bank1-Sensor1Voltage too Low/Air Leak
+P1102 O2 Sensor Heating Circ.,Bank1-Sensor1 Short to B+
+P1103 O2 Sensor Heating Circ.,Bank1-Sensor1 Output too Low
+P1104 Bank1-Sensor2 Voltage too Low/Air Leak
+P1105 O2 Sensor Heating Circ.,Bank1-Sensor2 Short to B+
+P1106 O2 Sensor Circ.,Bank2-Sensor1 Voltage too Low/Air Leak
+P1107 O2 Sensor Heating Circ.,Bank2-Sensor1 Short to B+
+P1108 O2 Sensor Heating Circ.,Bank2-Sensor1 Output too Low
+P1109 O2 Sensor Circ.,Bank2-Sensor2 Voltage too Low/Air Leak
+P1110 O2 Sensor Heating Circ.,Bank2-Sensor2 Short to B+
+P1111 O2 Control (Bank 1) System too lean
+P1112 O2 Control (Bank 1) System too rich
+P1113 Bank1-Sensor1 Internal Resistance too High
+P1114 Bank1-Sensor2 Internal Resistant too High
+P1115 O2 Sensor Heater Circ.,Bank1-Sensor1 Short to Ground

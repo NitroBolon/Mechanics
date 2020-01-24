@@ -1,0 +1,9 @@
+
+osquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(çÑŽ†ÿÿÿÿÿ8ô¤°Ôù-
+osquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8È”¤Ôù-
+isquid:HiddenFieldCheckL"@Rename "recyclerView" which hides the field declared at line 34.(ÄÓ²¡8åâ”Ôù-
+lsquid:MaximumInheritanceDepth "<This class has 6 parents which is greater than 5 authorized.(ÜÔšø8åâ”Ôù-
+…squid:S3252?"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(ÜÎ°8åâ”Ôù-
+asquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8åâ”Ôù-
+~squid:S1450""[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ8åâ”Ôù-
+Ssquid:S1068""0Remove this unused "recyclerView" private field.(¿á© ýÿÿÿÿ8åâ”Ôù-

@@ -1,0 +1,23 @@
+
+isquid:S2142H"FEither re-interrupt this method or rethrow the "InterruptedException".(–Ö‚¹ÿÿÿÿÿ8òª óñ-
+]squid:S1161Y":Add the "@Override" annotation above this method signature(›ã³Žùÿÿÿÿ8òª óñ-
+`squid:S2184"BCast one of the operands of this division operation to a "double".(·´¾08òª óñ-
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8òª óñ-
+Xsquid:S1161S":Add the "@Override" annotation above this method signature(›š‡¨8òª óñ-
+Rsquid:EmptyStatementUsageCheckH"Remove this empty statement.(–Ö‚¹ÿÿÿÿÿ8òª óñ-
+csquid:UselessImportCheck"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8òª óñ-
+bsquid:UselessImportCheck"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ8òª óñ-
+`squid:S2184‹"BCast one of the operands of this division operation to a "double".(ûó³A8òª óñ-
+]squid:S1161@":Add the "@Override" annotation above this method signature(ÿŸ¾Ðüÿÿÿÿ8òª óñ-
+dsquid:S1192G"FDefine a constant instead of duplicating this literal "Noise" 6 times.(ô¥‹â8òª óñ-
+hsquid:UselessImportCheck"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ8òª óñ-
+Fsquid:S1604$"(Make this anonymous inner class a lambda(Õð€ÿ8òª óñ-
+^squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ8òª óñ-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ïþÇÿÿÿÿÿ8òª óñ-
+vsquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(Ñ¿Ÿøÿÿÿÿÿ8òª óñ-
+Usquid:S2696œ"6Make the enclosing method "static" or remove this set.(«¿´Î8òª óñ-
+^squid:UselessImportCheck"3Remove this unused import 'android.view.ViewGroup'.(‹îá8òª óñ-
+asquid:UselessImportCheck
+"6Remove this unused import 'android.media.MediaPlayer'.(Ýã¦8òª óñ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8òª óñ-
+Msquid:S00108H")Either remove or fill this block of code.(–Ö‚¹ÿÿÿÿÿ8òª óñ-
